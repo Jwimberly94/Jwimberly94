@@ -1,7 +1,7 @@
 <!-- Header -->
 <div align="center">
 
-<img src="assets/warhammer-banner.svg" alt="Warhammer themed banner" width="100%" />
+![Warhammer themed banner](./assets/warhammer-banner.svg)
 
 ```
  ░█████╗░██████╗░███████╗██████╗░████████╗██╗   ██╗███████╗
