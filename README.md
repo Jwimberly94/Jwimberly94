@@ -1,6 +1,8 @@
 <!-- Header -->
 <div align="center">
 
+<img src="assets/warhammer-banner.svg" alt="Warhammer themed banner" width="100%" />
+
 ```
  ░█████╗░██████╗░███████╗██████╗░████████╗██╗   ██╗███████╗
  ██╔══██╗██╔══██╗██╔════╝██╔══██╗╚══██╔══╝██║   ██║██╔════╝
@@ -12,6 +14,8 @@
 ```
 
 ### `⚔️ Battle-Brother of the Adeptus Codicis | Neophyte No More ⚔️`
+
+`[ sacred backdrop initialized // vox-static: nominal ]`
 
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=C7A227&center=true&vCenter=true&width=600&lines=In+the+grim+darkness+of+the+far+future%2C+there+is+only+code.;Python+%7C+HTML%2FCSS+%7C+Java+%7C+Linux;Purging+bugs+in+the+Emperor%27s+name.;Knowledge+is+power%2C+guard+it+well.;Suffer+not+the+unclean+commit+to+live.)
 
@@ -101,4 +105,5 @@ $ vox_transmit --target=allies "Brothers, the vox-net is open. Hail me."
 ![Profile Views](https://komarev.com/ghpvc/?username=Jwimberly94&color=C7A227&style=flat-square&label=BATTLE-BROTHERS+ENCOUNTERED)
 
 </div>
+
 
