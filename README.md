@@ -2,97 +2,103 @@
 <div align="center">
 
 ```
- ██╗    ██╗██╗███╗   ███╗██████╗ ███████╗██████╗ ██╗  ██╗   ██╗ ██████╗  ██╗  
- ██║    ██║██║████╗ ████║██╔══██╗██╔════╝██╔══██╗██║  ╚██╗ ██╔╝██╔═══██╗███║  
- ██║ █╗ ██║██║██╔████╔██║██████╔╝█████╗  ██████╔╝██║   ╚████╔╝ ╚██╗ ██╔╝╚██║  
- ╚██╗███╔╝██║██║╚██╔╝██║██╔══██╗██╔══╝  ██╔══██╗██║    ╚██╔╝   ╚████╔╝  ██║  
-  ╚███╔███╔╝██║██║ ╚═╝ ██║██████╔╝███████╗██║  ██║███████╗██║     ╚██╔╝   ██║  
-   ╚══╝╚══╝ ╚═╝╚═╝     ╚═╝╚═════╝ ╚══════╝╚═╝  ╚═╝╚══════╝╚═╝      ╚═╝    ╚═╝  
+ ░█████╗░██████╗░███████╗██████╗░████████╗██╗   ██╗███████╗
+ ██╔══██╗██╔══██╗██╔════╝██╔══██╗╚══██╔══╝██║   ██║██╔════╝
+ ███████║██║  ██║█████╗  ██████╔╝   ██║   ██║   ██║███████╗
+ ██╔══██║██║  ██║██╔══╝  ██╔═══╝    ██║   ██║   ██║╚════██║
+ ██║  ██║██████╔╝███████╗██║        ██║   ╚██████╔╝███████║
+ ╚═╝  ╚═╝╚═════╝ ╚══════╝╚═╝        ╚═╝    ╚═════╝ ╚══════╝
+         C O D I C E S   A S T A R T E S
 ```
 
-### `< student // developer-in-progress />`
+### `⚔️ Battle-Brother of the Adeptus Codicis | Neophyte No More ⚔️`
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=00FF41&center=true&vCenter=true&width=500&lines=Learning+one+line+of+code+at+a+time...;Python+%7C+HTML%2FCSS+%7C+Java;Building+small+things+with+big+ideas;Always+curious%2C+always+growing.)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=C7A227&center=true&vCenter=true&width=600&lines=In+the+grim+darkness+of+the+far+future%2C+there+is+only+code.;Python+%7C+HTML%2FCSS+%7C+Java+%7C+Linux;Purging+bugs+in+the+Emperor%27s+name.;Knowledge+is+power%2C+guard+it+well.;Suffer+not+the+unclean+commit+to+live.)
 
 </div>
 
 ---
 
-## `> whoami`
+## `> litany_of_identification --display`
 
 ```python
-developer = {
-    "name":       "Jwimberly94",
-    "role":       "Student & Aspiring Developer",
-    "learning":   ["Python", "HTML/CSS", "Java"],
-    "building":   "Small practice projects & sharpening my skills",
-    "goal":       "Write clean code and keep pushing forward",
-    "fun_fact":   "Every expert was once a beginner 🚀"
+battle_brother = {
+  "designation":  "Jwimberly94",
+  "name":         "Wimberly Joshua",
+    "rank":         "Neophyte Coder → Adeptus Aspirant",
+    "chapter":      "Order of the Open Source",
+    "armaments":    ["Python", "HTML/CSS", "Java", "Linux"],
+    "crusade":      "Forging small relics of code into weapons of purpose",
+    "oath":         "Write clean code. Purge all heretical spaghetti.",
+    "litany":       "Every expert was once a neophyte. For the Emperor! ⚔️"
 }
 ```
 
 ---
 
-## `> tech_stack --list`
+## `> wargear --manifest`
 
-![Python](https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=python&logoColor=00FF41)
-![HTML5](https://img.shields.io/badge/HTML5-0d1117?style=for-the-badge&logo=html5&logoColor=00FF41)
-![CSS3](https://img.shields.io/badge/CSS3-0d1117?style=for-the-badge&logo=css3&logoColor=00FF41)
-![Java](https://img.shields.io/badge/Java-0d1117?style=for-the-badge&logo=openjdk&logoColor=00FF41)
-![Git](https://img.shields.io/badge/Git-0d1117?style=for-the-badge&logo=git&logoColor=00FF41)
-![VS Code](https://img.shields.io/badge/VS_Code-0d1117?style=for-the-badge&logo=visualstudiocode&logoColor=00FF41)
-
----
-
-## `> git log --projects`
-
-```
-commit a1b2c3d  [current]
-  🔨 Working on small practice projects
-  → Building consistency and fundamentals
-  → Experimenting with Python scripts
-  → Practicing HTML/CSS layouts
-
-commit f4e5d6c  [ongoing]
-  📚 Leveling up daily
-  → Breaking down concepts
-  → Learning by doing
-```
+![Python](https://img.shields.io/badge/Python-1a0a00?style=for-the-badge&logo=python&logoColor=C7A227)
+![HTML5](https://img.shields.io/badge/HTML5-1a0a00?style=for-the-badge&logo=html5&logoColor=C7A227)
+![CSS3](https://img.shields.io/badge/CSS3-1a0a00?style=for-the-badge&logo=css3&logoColor=C7A227)
+![Java](https://img.shields.io/badge/Java-1a0a00?style=for-the-badge&logo=openjdk&logoColor=C7A227)
+![Linux](https://img.shields.io/badge/Linux-1a0a00?style=for-the-badge&logo=linux&logoColor=C7A227)
+![Git](https://img.shields.io/badge/Git-1a0a00?style=for-the-badge&logo=git&logoColor=C7A227)
+![VS Code](https://img.shields.io/badge/VS_Code-1a0a00?style=for-the-badge&logo=visualstudiocode&logoColor=C7A227)
 
 ---
 
-## `> stats --verbose`
+## `> campaign_records --chronicles`
+
+```
+crusade-log Ω1b2c3  [ACTIVE CAMPAIGN]
+  ⚔️  Engaging small skirmish projects — sector by sector
+  → Reinforcing the fundamentals — no weak flanks
+  → Deploying Python scripts against the enemies of ignorance
+  → Raising HTML/CSS fortifications layout by layout
+
+crusade-log Ω4e5d6  [ONGOING SIEGE]
+  📜 Daily levelling of the mind-hive
+  → Dissecting complex doctrines
+  → Learning through blood, sweat, and compile errors
+```
+
+---
+
+## `> muster_roll --verbose`
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Jwimberly94&show_icons=true&theme=chartreuse-dark&bg_color=0d1117&border_color=00FF41&icon_color=00FF41&title_color=00FF41&text_color=ffffff&hide_border=false)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Jwimberly94&show_icons=true&theme=dark&bg_color=1a0a00&border_color=C7A227&icon_color=C7A227&title_color=C7A227&text_color=ffffff&hide_border=false)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Jwimberly94&layout=compact&theme=chartreuse-dark&bg_color=0d1117&border_color=00FF41&title_color=00FF41&text_color=ffffff)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Jwimberly94&layout=compact&theme=dark&bg_color=1a0a00&border_color=C7A227&title_color=C7A227&text_color=ffffff)
 
-![Streak](https://streak-stats.demolab.com?user=Jwimberly94&theme=dark&background=0d1117&border=00FF41&ring=00FF41&fire=00FF41&currStreakLabel=00FF41&sideLabels=ffffff&dates=888888)
+![Streak](https://streak-stats.demolab.com?user=Jwimberly94&theme=dark&background=1a0a00&border=C7A227&ring=C7A227&fire=C7A227&currStreakLabel=C7A227&sideLabels=ffffff&dates=888888)
 
 </div>
 
 ---
 
-## `> ping me`
+## `> vox_caster --hail`
 
 ```bash
-$ echo "Let's connect!"
+$ vox_transmit --target=allies "Brothers, the vox-net is open. Hail me."
 ```
 
-[![GitHub](https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=00FF41)](https://github.com/Jwimberly94)
+[![GitHub](https://img.shields.io/badge/GitHub-1a0a00?style=for-the-badge&logo=github&logoColor=C7A227)](https://github.com/Jwimberly94)
 
 ---
 
 <div align="center">
 
 ```
-[ status: online ] [ mode: learning ] [ progress: loading... ████████░░ 80% ]
+⚜️  IMPERIAL DISPATCH  ⚜️
+[ status: BATTLE-READY ] [ mode: CRUSADING ] [ purity: ████████░░ 80% SANCTIFIED ]
 ```
 
-*"The best time to start was yesterday. The second best time is now."*
+*"The Emperor protects — but only those who write clean, well-commented code."*
 
-![Profile Views](https://komarev.com/ghpvc/?username=Jwimberly94&color=00FF41&style=flat-square&label=VISITORS)
+![Profile Views](https://komarev.com/ghpvc/?username=Jwimberly94&color=C7A227&style=flat-square&label=BATTLE-BROTHERS+ENCOUNTERED)
 
 </div>
+
