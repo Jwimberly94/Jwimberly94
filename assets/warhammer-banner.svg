@@ -1,0 +1,54 @@
+<svg width="1280" height="360" viewBox="0 0 1280 360" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Warhammer themed banner">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1280" y2="360" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#120704"/>
+      <stop offset="0.5" stop-color="#240B05"/>
+      <stop offset="1" stop-color="#120704"/>
+    </linearGradient>
+    <radialGradient id="sun" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(640 168) rotate(90) scale(150 430)">
+      <stop stop-color="#C7A227" stop-opacity="0.55"/>
+      <stop offset="1" stop-color="#C7A227" stop-opacity="0"/>
+    </radialGradient>
+    <filter id="glow" x="-20%" y="-20%" width="140%" height="140%">
+      <feGaussianBlur stdDeviation="4" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+    <pattern id="grid" width="48" height="48" patternUnits="userSpaceOnUse">
+      <path d="M 48 0 L 0 0 0 48" stroke="#6F5317" stroke-opacity="0.18" stroke-width="1"/>
+    </pattern>
+  </defs>
+
+  <rect width="1280" height="360" fill="url(#bg)"/>
+  <rect width="1280" height="360" fill="url(#grid)"/>
+  <rect width="1280" height="360" fill="url(#sun)"/>
+
+  <path d="M0 280 C180 240, 340 320, 520 290 C660 266, 840 230, 1280 296 L1280 360 L0 360 Z" fill="#0E0503"/>
+  <path d="M0 304 C220 274, 380 336, 560 306 C770 270, 980 252, 1280 316 L1280 360 L0 360 Z" fill="#090303"/>
+
+  <g opacity="0.42" stroke="#C7A227" stroke-width="1.6">
+    <line x1="120" y1="0" x2="120" y2="360"/>
+    <line x1="1160" y1="0" x2="1160" y2="360"/>
+  </g>
+
+  <g filter="url(#glow)">
+    <text x="640" y="148" text-anchor="middle" fill="#E3C363" font-family="Georgia, 'Times New Roman', serif" font-size="52" letter-spacing="6">
+      IN THE EMPEROR'S LIGHT
+    </text>
+    <text x="640" y="206" text-anchor="middle" fill="#F2D480" font-family="Georgia, 'Times New Roman', serif" font-size="28" letter-spacing="7">
+      CODE • DISCIPLINE • PURPOSE
+    </text>
+  </g>
+
+  <g opacity="0.9" fill="#C7A227">
+    <circle cx="220" cy="92" r="2.2"/>
+    <circle cx="302" cy="64" r="1.7"/>
+    <circle cx="1020" cy="86" r="2"/>
+    <circle cx="946" cy="58" r="1.4"/>
+    <circle cx="1086" cy="120" r="1.6"/>
+  </g>
+
+  <rect x="70" y="50" width="1140" height="260" rx="8" stroke="#9E7B25" stroke-opacity="0.35" stroke-width="2"/>
+</svg>
